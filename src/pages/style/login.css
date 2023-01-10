@@ -1,0 +1,15 @@
+
+.singup_block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.singup_block button{
+    color: #444444;
+    background: #F3F3F3;
+    border: 1px #DADADA solid;
+    padding: 7px 15px;
+    margin-top: 30px;
+    cursor: pointer;
+}
